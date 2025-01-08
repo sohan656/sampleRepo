@@ -1,1 +1,1 @@
-# this is a sample repo to learn git
+# This is a readme file
